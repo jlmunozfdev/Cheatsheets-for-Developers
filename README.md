@@ -30,7 +30,7 @@ Hice este repositorio con la finalidad de compartir todos los CheetSheet sobre l
 ---
 
 ---
-<h2>JavScript Cheatsheets</h2>
+<h2>JavaScript Cheatsheets</h2>
 <p>1. xxxx</p>
 <a href=""><img src="" /></a>
 ---
