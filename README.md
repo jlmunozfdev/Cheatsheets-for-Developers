@@ -19,10 +19,14 @@ Hice este repositorio con la finalidad de compartir todos los CheetSheet sobre l
 
 ---
 
-<h2>HTML Cheatsheets</h2>
-<p>1. Tipos de Input en HTML</p>
+<h2><strong>HTML Cheatsheets</strong></h2>
+<p align="center"><strong>1. Tipos de Input en HTML</strong></p>
 <a href="./HTML/1.- INPUTS/1.INPUTS-HTML.png"><img src="./HTML/1.- INPUTS/1.INPUTS-HTML.png" alt="input-1"/></a>
 <a href="./HTML/1.- INPUTS/2.INPUTS-HTML.png"><img src="./HTML/1.- INPUTS/2.INPUTS-HTML.png" alt="input-2"/></a>
+
+<p align="center"><strong>2. HTML Básico</strong></p>
+<a href="./HTML/2.- HTML_BÁSICO/HTML_B1.png"><img src="./HTML/2.- HTML_BÁSICO/HTML_B1.png" alt="HTML_1"/></a>
+<a href="./HTML/2.- HTML_BÁSICO/HTML_B2.png"><img src="./HTML/2.- HTML_BÁSICO/HTML_B2.png" alt="HTLM_2"/></a>
 
 ---
 <h2>CSS Cheatsheets</h2>
